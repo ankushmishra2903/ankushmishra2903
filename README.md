@@ -25,7 +25,7 @@
 
 | Platform   | Contact                           |
 |------------|-----------------------------------|
-| **Email**  | yourmail@example.com              |
+| **Email**  | ankushmishra2903@gmail.com              |
 | **WhatsApp** | [Click to Chat](https://wa.me/917974704221) |
 
 ---
