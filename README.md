@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankush  
 
-<!--
-**ankushmishra2903/ankushmishra2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a **PHP & Flutter Developer** focused on crafting seamless digital experiences.  
+🚀 I enjoy building **scalable apps, APIs, and smooth UIs** that solve real-world problems.  
+🌱 Currently learning and experimenting with **GraphQL** & modern web/mobile practices.  
+✨ Strong believer in **clean code, performance, and user-friendly design**.  
+📂 Here I share my projects, experiments, and ideas with the developer community.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+
+| Category       | Technologies               |
+|----------------|----------------------------|
+| **Languages**  | PHP, Dart, JavaScript      |
+| **Frameworks** | Flutter, TailwindCSS       |
+| **APIs**       | REST, GraphQL              |
+| **Database**   | MySQL                      |
+| **Others**     | Git, Firebase              |
+
+---
+
+### 🌐 Connect with Me  
+
+| Platform   | Contact                           |
+|------------|-----------------------------------|
+| **Email**  | yourmail@example.com              |
+| **WhatsApp** | [Click to Chat](https://wa.me/917974704221) |
+
+---
+
+⭐️ From [Ankush Mishra](https://github.com/ankushmishra2903)
