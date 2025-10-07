@@ -31,3 +31,7 @@
 ---
 
 ⭐️ From [Ankush Mishra](https://github.com/ankushmishra2903)
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developerankushmishra) [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/developerankushmishra) 
