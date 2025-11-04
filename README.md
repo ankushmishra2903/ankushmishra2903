@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankush  
 
-💻 I’m a **PHP & Flutter Developer** focused on crafting seamless digital experiences.  
+💻 I’m a **Flutter & PHP Developer** focused on crafting seamless digital experiences.  
 🚀 I enjoy building **scalable apps, APIs, and smooth UIs** that solve real-world problems.  
 🌱 Currently learning and experimenting with **GraphQL** & modern web/mobile practices.  
 ✨ Strong believer in **clean code, performance, and user-friendly design**.  
